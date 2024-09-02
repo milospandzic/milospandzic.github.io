@@ -32,6 +32,7 @@ Education
 * MSc | Department of Geodesy and Geoinformatics, Faculty of Civil Engineering, University of Belgrade, Serbia (_2013_ - _2016_)
 * BSc | Department of Geodesy and Geoinformatics, Faculty of Civil Engineering, University of Belgrade, Serbia (_2010_ - _2013_)
 
+<!---
 Skills
 ======
 * Skill 1
@@ -62,3 +63,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
