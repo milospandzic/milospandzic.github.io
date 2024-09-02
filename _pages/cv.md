@@ -30,8 +30,10 @@ Education
 ======
 * **PhD in Geodesy** (_2018_ - _2025 expected_)\
 Department of Geodesy and Geoinformatics, Faculty of Civil Engineering, University of Belgrade, Serbia 
-* **MSc in Geodesy**, Department of Geodesy and Geoinformatics, Faculty of Civil Engineering, University of Belgrade, Serbia (_2013_ - _2016_)
-* **BSc in Geodesy**, Department of Geodesy and Geoinformatics, Faculty of Civil Engineering, University of Belgrade, Serbia (_2010_ - _2013_)
+* **MSc in Geodesy** (_2013_ - _2016_)\
+Department of Geodesy and Geoinformatics, Faculty of Civil Engineering, University of Belgrade, Serbia
+* **BSc in Geodesy** (_2010_ - _2013_)\
+Department of Geodesy and Geoinformatics, Faculty of Civil Engineering, University of Belgrade, Serbia
 
 <!---
 Skills
