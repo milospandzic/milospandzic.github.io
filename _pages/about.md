@@ -1,12 +1,22 @@
 ---
 permalink: /
-title: "Welcome to my professional microcosm 🌍"
+title: 🚨 "Under construction 🚧 Welcome to my professional microcosm 🌍"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Hi and welcome to my microcosm! I am Milos, a spatial data scientist 👨‍💻 or a geospecialist. In other words, I'm a guy who loves maps 🗺️ and works with vectors and rasters every day. So GIS, remote sensing, Earth observation, programming, and AI are my main interests and occupy the most of my work day.
+
+For the past 10 years I've been working with optical and radar Earth observation satellites such as Sentinel-1 and Sentinel-2 for various tasks including time-series analysis, change detection, classification and prediction in different areas spanning from agriculture over forestry and urban area mapping, to domains of disaster response and security. Each task included serious project planning, data preprocessing (including data collection, data cleaning, data manipulation), data analyis, reporting and visualization, etc.
+
+For my work I rely on open source tools mainly, though not exclusively. I am highly experienced user of QGIS, SNAP toolbox, Python and its supporting libraries (gdal, fiona, rasterio, numpy, pandas, scikit-learn, matplotlib, seaborn, pytorch,...), Google Earth Engine, Adobe Photoshop, and of course Microsof Office (Word, Excel, PowerPoint). I have some experience with commercial softwares for spatial data processing like ArcGis, eCognition, Envi, Erdas imagine, PhotoModeler Scanner and so on. Since I am dedicated to constant learning, acquiring new skillsets is not a problem for me. Au contraire, I love challenges.
+
+With the right tools, timely planning and dedication, everything is possible.
+
+
+<!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -46,4 +56,5 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
+-->
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
