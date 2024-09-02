@@ -9,11 +9,15 @@ redirect_from:
 
 Hi and welcome to my microcosm! I am Milos, a spatial data scientist 👨‍💻 or a geospecialist. In other words, I'm a guy who loves maps 🗺️ and works with vectors and rasters every day. So GIS, remote sensing, Earth observation, programming, and AI are my main interests and occupy the most of my work day.
 
-For the past 10 years I've been working with optical and radar Earth observation satellites such as [Sentinel-1](https://sentiwiki.copernicus.eu/web/sentinel-1) and [Sentinel-2](https://sentiwiki.copernicus.eu/web/sentinel-2) for various tasks including time-series analysis, change detection, classification and prediction in different areas spanning from agriculture over forestry and urban area mapping, to domains of disaster response and security. Each task included serious project planning, data preprocessing (data collection, data cleaning, data manipulation), data analyis, visualization and reporting, etc.
+For the past 10 years I've been working with optical and radar Earth observation satellites such as [Sentinel-1](https://sentiwiki.copernicus.eu/web/sentinel-1) and [Sentinel-2](https://sentiwiki.copernicus.eu/web/sentinel-2) for various tasks including time-series analysis, change detection, classification and prediction in different areas spanning from agriculture over forestry and urban area mapping, to domains of disaster response and security. Each task included project planning, data preprocessing (data collection, data cleaning, data transformation), data analyis, visualization and reporting, etc.
 
 For my work I rely on open source tools mainly, though not exclusively. I am highly experienced user of QGIS, SNAP toolbox, Python and its supporting libraries (gdal, fiona, rasterio, numpy, pandas, scikit-learn, matplotlib, seaborn, pytorch,...), Google Earth Engine, Adobe Photoshop, and of course Microsof Office (Word, Excel, PowerPoint). I have some experience with commercial softwares for spatial data processing like ArcGis, eCognition, Envi, Erdas imagine, PhotoModeler Scanner and so on. Since I am dedicated to constant learning, acquiring new skillsets is not a problem for me. Au contraire, I love challenges.
 
 With the right tools, dedication and timely planning, everything is possible!
+
+Aside from daily work routine, I have also been mentoring students, organizing events (e.g. "Geospatial Community of Serbia Meetup"), participating in writing project proposals for Horzion Europe, and many other stuff. I often attend international conferences and other work related events which in my opinion are a perfect fusion of two things I particularly like, travelling and networking.
+
+In my free time you can usually find me hanging out with my family and friends, or dancing in tv shows and concerts, playing tennis or SCUBA diving.
 
 
 <!--
