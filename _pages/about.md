@@ -17,9 +17,9 @@ For my work I rely on open source tools mainly, though not exclusively. I am hig
 
 With the right tools, dedication and timely planning, everything is possible!
 
-Aside from daily work routine, I have also been mentoring students, organizing events (e.g. "Geospatial Community of Serbia Meetup"), participating in writing project proposals for Horzion Europe, and many other stuff. I often attend international conferences and other work related events which in my opinion are a perfect fusion of two things I particularly like, travelling and networking. I've obtained UAV operator licence few years ago, but a drone is still on my shopping list.
+Aside from daily work routine, I have also been mentoring students, organizing events (e.g. "Geospatial Community of Serbia Meetup"), participating in writing project proposals for Horzion Europe, and many other stuff. I often attend international conferences and other work related events which in my opinion are a perfect fusion of two things I particularly like, travelling and networking. I've obtained UAV operator licence few years ago, but a drone is still on my shopping list. I hope freelancing on [UpWork](https://www.upwork.com/freelancers/~01fab8acaed86b30f2) that I recently started will help me earn pocket money for this and other similar toys for big boys.
 
-In my free time you can usually find me hanging out with my family and friends, or dancing in tv shows and concerts, playing tennis or SCUBA diving.
+In my free time you can usually find me hanging out with my family and friends, or dancing in tv shows and concerts, playing tennis or SCUBA diving. 
 
 
 <!--
