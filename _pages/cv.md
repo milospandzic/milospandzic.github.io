@@ -11,12 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Geodesy, Faculty of Civil Engineering, University of Belgrade, 2025 (expected)
+* MSc in Geodesy, Faculty of Civil Engineering, University of Belgrade, 2016
+* BSc in Geodesy, Faculty of Civil Engineering, University of Belgrade, 2013
 
 Work experience
 ======
+* April 2018 - Present
+  * Supervisors: Dr. Sanja Brdar & Dr. Oskar Marko
+  * Processing of optical and radar satellite imagery for classification, monitoring, and change detection, using machine learning and deep learning models; Python programming; Supervising master and bachelor students;       Writing and participating in national and international (Horizion Europe) projects;
+  * Tasks: crop classification, crop health monitoring, protein prediction, burned area mapping, flood mapping
+
 * Spring 2024: Academic Pages Collaborator
   * Github University
   * Duties includes: Updates and improvements to template
