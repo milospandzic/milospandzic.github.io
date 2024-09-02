@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my professional microcosm :earth_africa:"
+title: "Welcome to my professional microcosm 🌍"
 author_profile: true
 redirect_from: 
   - /about/
