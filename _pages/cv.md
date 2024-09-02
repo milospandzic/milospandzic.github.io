@@ -9,34 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* PhD in Geodesy, Faculty of Civil Engineering, University of Belgrade, 2025 (expected)
-* MSc in Geodesy, Faculty of Civil Engineering, University of Belgrade, 2016
-* BSc in Geodesy, Faculty of Civil Engineering, University of Belgrade, 2013
-
 Work experience
 ======
-* April 2018 - Present
+* _April 2018 - Present_: **Research Assistant** @ BioSense Institute, University of Novi Sad <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/255px-Flag_of_Serbia.svg.png" alt="Austrian Flag" width="20" height="16">
   * Supervisors: Dr. Sanja Brdar & Dr. Oskar Marko
   * Processing of optical and radar satellite imagery for classification, monitoring, and change detection, using machine learning and deep learning models; Python programming; Supervising master and bachelor students;       Writing and participating in national and international (Horizion Europe) projects;
   * Tasks: crop classification, crop health monitoring, protein prediction, burned area mapping, flood mapping
 
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* _June 2016 - December 2017_: **Researcher** @ Finnish Geospatial Research Institute (FGI/NLS) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/255px-Flag_of_Finland.svg.png" alt="Austrian Flag" width="20" height="16">
+  * Supervisor: Dr. Eetu Puttonen
+  * Image processing; Scientific writing & reporting
+  * Tasks: urban area mapping, forest clear cuts detection, monitoring agriculture
+ 
+* _September 2015 - December 2015_: **Guest Researcher** @ TU Vienna, Department of Geodesy and Geoinformatics <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austrian Flag" width="20" height="16">
+  * Supervisor: Prof. Dr. Norbert Pfeifer
+  * Satellite image processing
+  * Task: Assessment of geometric quality of Sentinel-2 image products.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Education
+======
+* PhD in Geodesy, Faculty of Civil Engineering, University of Belgrade, _2025 (expected)_
+* MSc in Geodesy, Faculty of Civil Engineering, University of Belgrade, 2016
+* BSc in Geodesy, Faculty of Civil Engineering, University of Belgrade, 2013
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 * Skill 1
