@@ -12,25 +12,25 @@ redirect_from:
 Work experience
 ======
 * _April 2018 - Present_: **Research Assistant** @ BioSense Institute, University of Novi Sad <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/255px-Flag_of_Serbia.svg.png" alt="Austrian Flag" width="20" height="16">
-  * Supervisors: Dr. Sanja Brdar & Dr. Oskar Marko
   * Processing of optical and radar satellite imagery for classification, monitoring, and change detection, using machine learning and deep learning models; Python programming; Supervising master and bachelor students;       Writing and participating in national and international (Horizion Europe) projects;
   * Tasks: crop classification, crop health monitoring, protein prediction, burned area mapping, flood mapping
+  * Supervisors: Dr. Sanja Brdar & Dr. Oskar Marko
 
 * _June 2016 - December 2017_: **Researcher** @ Finnish Geospatial Research Institute (FGI/NLS) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/255px-Flag_of_Finland.svg.png" alt="Austrian Flag" width="20" height="16">
-  * Supervisor: Dr. Eetu Puttonen
   * Image processing; Scientific writing & reporting
   * Tasks: urban area mapping, forest clear cuts detection, monitoring agriculture
+  * Supervisor: Dr. Eetu Puttonen
  
 * _September 2015 - December 2015_: **Guest Researcher** @ TU Vienna, Department of Geodesy and Geoinformatics <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austrian Flag" width="20" height="16">
-  * Supervisor: Prof. Dr. Norbert Pfeifer
   * Satellite image processing
   * Task: Assessment of geometric quality of Sentinel-2 image products.
-
+  * Supervisor: Prof. Dr. Norbert Pfeifer
+    
 Education
 ======
-* PhD in Geodesy, Faculty of Civil Engineering, University of Belgrade, _2025 (expected)_
-* MSc in Geodesy, Faculty of Civil Engineering, University of Belgrade, 2016
-* BSc in Geodesy, Faculty of Civil Engineering, University of Belgrade, 2013
+* PhD | Department of Geodesy and Geoinformatics, Faculty of Civil Engineering, University of Belgrade, Serbia (_2018_ - _2025 expected_)
+* MSc | Department of Geodesy and Geoinformatics, Faculty of Civil Engineering, University of Belgrade, Serbia (_2013_ - _2016_)
+* BSc | Department of Geodesy and Geoinformatics, Faculty of Civil Engineering, University of Belgrade, Serbia (_2010_ - _2013_)
 
 Skills
 ======
