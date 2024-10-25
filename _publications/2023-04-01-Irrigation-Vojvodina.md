@@ -2,8 +2,8 @@
 title: "Earth Observation and Machine Learning for estimating the irrigation potential of
 municipalities in Vojvodina, Serbia"
 collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+category: conferences
+permalink: /publication/22023-04-01-Irrigation-Vojvodina
 excerpt: 'Using Sentinel-2 Earth observation data and machine learning, we mapped irrigated areas for key crops in Vojvodina, Serbia, creating high-resolution binary maps that revealed irrigation trends from 2017 to 2022. The study also evaluated irrigation potential across municipalities, highlighting regions with extensive canal networks like Bačka, which showed high irrigation potential, offering insights to support future water management strategies.'
 date: 2023-04-01
 venue: '39th International Symposium on Remote Sensing of Environment (ISRSE39)'
