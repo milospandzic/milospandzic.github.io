@@ -2,7 +2,7 @@
 title: "Interseasonal transfer learning for crop mapping using Sentinel-1 data"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2024-04-01-Temporal_transfer learning
 excerpt: 'TLDR: This study evaluates temporal transfer learning and traditional methods for crop mapping using Sentinel-1 data, demonstrating that transfer learning can achieve strong accuracy (up to 86% F1 score) with minimal target season ground truth, while traditional methods surpass it when more data (around 720 parcels) is available. The findings highlight that transfer learning can reduce the need for labor-intensive data collection, providing an efficient approach to crop mapping, especially when ground truth data is limited.'
 date: April, 2024
 venue: 'International Journal of Applied Earth Observation and Geoinformation'
