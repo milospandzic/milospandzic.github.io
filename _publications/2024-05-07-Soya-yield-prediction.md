@@ -1,7 +1,7 @@
 ---
 title: "Soya yield prediction on a within-field scale using machine learning models trained on Sentinel-2 and soil data"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publication/2024-05-07-Soya-yield-prediction.
 excerpt: 'This study evaluated a machine learning system for within-field soybean yield prediction using Sentinel-2 multispectral images and soil parameters, focusing on farms in Upper Austria from 2018 to 2020. A new Polygon-Pixel Interpolation method optimized yield monitor and satellite image alignment, with Stochastic Gradient Descent performing best, achieving a mean absolute error of 4.36 kg/pixel and a correlation coefficient of 0.83%.'
 date: 2024-02-17
