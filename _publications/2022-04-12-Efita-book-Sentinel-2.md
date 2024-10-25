@@ -3,7 +3,7 @@ title: "Potential of Sentinel-2 Satellite and Novel Proximal Sensor Data Fusion 
 collection: publications
 category: books
 permalink: /publication/2022-04-12-Efita-book-Sentinel-2
-excerpt: 'This study explores the fusion of sensor data for agricultural applications by comparing two novel crop-monitoring approaches: the Plant-O-Meter, a multispectral handheld sensor, and Sentinel-2 satellite imagery. Both sensors, used to track maize growth in 2018, showed positive correlations in vegetation indices, underscoring their combined potential in precision agriculture.'
+excerpt: 'TLDR: This study explores the fusion of sensor data for agricultural applications by comparing two novel crop-monitoring approaches: the Plant-O-Meter, a multispectral handheld sensor, and Sentinel-2 satellite imagery. Both sensors, used to track maize growth in 2018, showed positive correlations in vegetation indices, underscoring their combined potential in precision agriculture.'
 date: 2022-04-12
 venue: 'Information and Communication Technologies for Agriculture—Theme I: Sensors'
 slidesurl: 
